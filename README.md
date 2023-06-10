@@ -1,5 +1,5 @@
 # School District Analysis
-Performing an analysis using school and student data to inform a school district on their budget and priorities.
+Performing an analysis using school and student data to inform a school district.
 
 ---
 
